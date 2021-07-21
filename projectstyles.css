@@ -47,7 +47,6 @@ div#tswcontproper {
 }
 
 div#tswcontainer {
-  color: ;
   background-color: white;
 }
 
@@ -73,5 +72,6 @@ div#tswfooter {
 
 #tswcontproper {
   font-weight: bold;
+  font-family: "Segoe Print";
 }
 
