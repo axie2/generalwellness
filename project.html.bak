@@ -29,24 +29,17 @@ style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-col
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
-          <div id="tswcssbuttons">
-            <ul>
-              <li><a href="MyProject.html">Home</a></li>
-              <li><a href="selfcare.html">Self Care</a></li>
-              <li><a href="nutrition.html">Nutrition</a></li>
-              <li><a href="fitness.html">Fitness</a></li>
-            </ul>
-          </div>
           <!-- start of side column: insert your navigation menu, etc, here -->
-          <p><br>
-          </p>
+          <p> Placeholder content for the side column: please replace this with
+            your real stuff. </p>
           <!-- end of side column: put your navigation menu, etc, above this line -->
         </div>
       </div>
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p>Copyright@2021General Wellnes! All right reserved!</p>
+        <p> Placeholder content for the footer: please replace these words with
+          your real content. </p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
