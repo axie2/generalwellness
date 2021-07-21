@@ -1,35 +1,32 @@
-/*
-	tswnavbar.css	1.2.4
-	Please use the Navigation Menu Wizard at
-		https://www.thesitewizard.com/wizards/css-menu-buttons.shtml
-	to generate your own customized menu buttons.
-*/
-
-#tswcssbuttons {
-	width: 180px ;
-	max-width: 100% ;
-	text-align: center ;
-}
 #tswcssbuttons ul {
-	margin: 0 ;
-	padding: 0 ;
-	list-style: none ;
+  margin: 0px;
+  padding: 0px;
+  list-style: outside none none;
 }
+
 #tswcssbuttons li {
-	margin: 0 ;
-	padding: 0 ;
-	display: block ;
-	list-style: none ;
-	font-family: Arial, Helvetica, sans-serif ;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  list-style: outside none none;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
 #tswcssbuttons li a {
-	color: #ffff00 ;
-	background-color: #b30000 ;
-	border: 1px outset #ff8080 ;
-	text-decoration: none ;
-	display: block ;
+  color: black;
+  background-color: #e1d1ff;
+  border: 1px outset #8e52ff;
+  text-decoration: none;
+  display: block;
 }
+
 #tswcssbuttons li a:hover {
-	color: #000000 ;
-	background-color: #ffbfbf ;
+  color: black;
+  background-color: #c299ff;
 }
+
+#tswheader {
+  font-family: "Comfortaa", "cursive", "Candara", "Segoe Print";
+  text-align: left;
+}
+
