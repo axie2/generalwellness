@@ -66,12 +66,13 @@ div#tswfooter {
 }
 
 #companyid {
-  font-size: xx-large;
+  font-size: x-large;
   float: none;
+  font-family: "Malgun Gothic";
 }
 
 #tswcontproper {
   font-weight: bold;
-  font-family: "Segoe Print";
+  font-family: "Segoe Print", "Malgun Gothic";
 }
 

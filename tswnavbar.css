@@ -26,19 +26,83 @@
 }
 
 #tswheader {
-  font-family: "Comfortaa", "cursive", "Candara", "Segoe Print";
   text-align: left;
+  font-family: "Malgun Gothic";
 }
 
-#heading {
-  font-size: large;
+#tswcontent {
+  font-family: "Segoe Print", "Sitka Banner", "Verdana", "Ink Free";
 }
 
-#heading1 {
-  font-size: large;
+#body {
+  font-family: "Malgun Gothic";
 }
 
-#heading3 {
-  font-size: larger;
+.p {
+  font-family: "Malgun Gothic";
+}
+
+#navigation {
+  font-family: "Segoe Print";
+}
+
+ul:hover {
+  font-family: "Segoe Print";
+}
+
+#nav1:hover {
+  font-family: "Segoe Print";
+}
+
+#nav2:hover {
+  font-family: "Segoe Print";
+}
+
+#nav3:hover {
+  font-family: "Segoe Print";
+}
+
+#nav4 {
+  font-family: "Segoe Print";
+}
+
+#nav5 {
+  font-family: "Segoe Print";
+}
+
+#nav3 {
+  font-family: "Segoe Print";
+}
+
+#nav2 {
+  font-family: "Segoe Print";
+}
+
+#nav1 {
+  font-family: "Segoe Print";
+}
+
+#head {
+  font-family: "Segoe Print";
+}
+
+#n1 {
+  font-family: "Segoe Print";
+}
+
+#n2 {
+  font-family: "Segoe Print";
+}
+
+#n3 {
+  font-family: "Segoe Print";
+}
+
+#n4 {
+  font-family: "Segoe Print";
+}
+
+#n5 {
+  font-family: "Segoe Print";
 }
 

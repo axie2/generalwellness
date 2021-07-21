@@ -22,12 +22,12 @@ id="tswheader"> Self-Care</span></b></h1>
         <div id="tswcontproper">
           <!-- start of content column: insert your content here --><b style="font-weight:normal;"
             id="docs-internal-guid-ab001027-7fff-bf30-ca62-2a6d35e911b0"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"></span></b>
-          <p><u id="heading1">The Importance of Self-Care</u><br>
+          <p><b><u id="heading1">The Importance of Self-Care</u></b><br>
             Self-Care can improve your mental health and not only make you
             happier, but make others around you as well. Once you take care of
             yourself, you can help others as well. There are many different
             types of Self-Care.</p>
-          <p><u id="heading">The different types of Self-Care are:</u></p>
+          <p><b><u id="heading">The different types of Self-Care are:</u></b></p>
           <ul>
             <li><span style="color: #ff66b8;">Physical:</span> improves your
               physical health and well-being</li>
@@ -42,7 +42,9 @@ id="tswheader"> Self-Care</span></b></h1>
             <li><span style="color: #957bfd;">Spiritual:</span> nurtures your
               spirit</li>
           </ul>
-          <p><u id="heading3">Self-Care Ideas</u></p>
+          <p><br>
+          </p>
+          <p><b><u id="heading3">Self-Care Ideas</u></b></p>
           <ul>
             <li><span style="color: #ff66b8;">Physical:</span></li>
             <ul>
