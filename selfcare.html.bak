@@ -37,13 +37,11 @@ id="tswheader"> Self-Care</span></b></h1>
               connect, acknowledge, and reflect on your emotions</li>
             <li><span style="color: #49db69;">Practical:</span> helps make your
               lif​​e less stressful and more productive</li>
-            <li><span style="color: #67a7fd;">Social:</span> nurtures your
-              relationships</li>
+            <li><span style="color: #67a7fd;">Social:</span> nurtures your relationships</li>
             <li><span style="color: #957bfd;">Spiritual:</span> nurtures your
               spirit</li>
           </ul>
-          <p><br>
-          </p>
+          <img src="images/self-care.jpeg" alt="selfcare" title="selfcare" style="width: 663px; height: 373px;">
           <p><b><u id="heading3">Self-Care Ideas</u></b></p>
           <ul>
             <li><span style="color: #ff66b8;">Physical:</span></li>
@@ -72,6 +70,11 @@ id="tswheader"> Self-Care</span></b></h1>
               <li>Take a bath</li>
               <li>Workout (see Fitness)</li>
               <li>Take a nap</li>
+            </ul>
+          </ul>
+          <img src="images/spa.jpg" alt="spa" title="spa" style="width: 527px; height: 366px;">
+          <ul>
+            <ul>
             </ul>
           </ul>
           <ul>
@@ -122,6 +125,11 @@ id="tswheader"> Self-Care</span></b></h1>
                 advanced</li>
             </ul>
           </ul>
+          <img src="images/wellness.jpg" alt="work" title="work" style="width: 522px; height: 347px;">
+          <ul>
+            <ul>
+            </ul>
+          </ul>
           <ul>
             <li><span style="color: #67a7fd;">Social:</span></li>
             <ul>
@@ -163,17 +171,22 @@ id="tswheader"> Self-Care</span></b></h1>
               <li>Pray</li>
             </ul>
           </ul>
+          <img src="images/balance-110850__480.jpg" alt="rocks" title="rocks" style="width: 576px; height: 287px;">
+          <ul>
+            <ul>
+            </ul>
+          </ul>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="project.html">Home</a></li>
-              <li><a href="selfcare.html">Self Care</a></li>
-              <li><a href="nutrition.html">Nutrition</a></li>
-              <li><a href="fitness.html">Fitness</a></li>
-              <li><a href="aboutus.html">About Us</a></li>
+              <li><a href="project.html" id="n1">Home</a></li>
+              <li><a href="selfcare.html" id="n2">Self Care</a></li>
+              <li><a href="nutrition.html" id="n3">Nutrition</a></li>
+              <li><a href="fitness.html" id="n4">Fitness</a></li>
+              <li><a href="aboutus.html" id="n5">About Us</a></li>
             </ul>
           </div>
           <!-- start of side column: insert your navigation menu, etc, here -->

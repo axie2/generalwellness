@@ -30,10 +30,6 @@
   font-family: "Malgun Gothic";
 }
 
-#tswcontent {
-  font-family: "Segoe Print", "Sitka Banner", "Verdana", "Ink Free";
-}
-
 #body {
   font-family: "Malgun Gothic";
 }
@@ -103,6 +99,14 @@ ul:hover {
 }
 
 #n5 {
+  font-family: "Segoe Print";
+}
+
+#tswcontent {
+  font-family: "Segoe Print";
+}
+
+#content {
   font-family: "Segoe Print";
 }
 
