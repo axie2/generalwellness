@@ -46,6 +46,8 @@ id="content">Your diet is one of the most important things to take note of. Eati
           tomato, cucumbers and blueberries!</div>
         <div><br>
         </div>
+        <img src="file://///storage.wpi.edu/home/axie/generalwellness/images/vegatables.jpg"
+          alt="veggies" title="veggies" style="width: 619px; height: 394px;">
         <div>
           <h3><u><b>Quick Meals!</b></u></h3>
           <u><b>Breakfast Dishes</b></u><br>
@@ -56,8 +58,11 @@ id="content">Your diet is one of the most important things to take note of. Eati
           Yogurt + fruit parfait with honey granola <br>
           Coconut Flour pancakes <br>
           Run away from white bread and to wheat bread!<br>
-          *To sweeten: Try pure honey rather than sugar<br>
-          <br>
+          *To sweeten: Try pure honey rather than sugar</div>
+        <div><br>
+        </div>
+        <img src="images/yogurt.jpg" alt="yogurt" title="yogurt" style="width: 610px; height: 406px;">
+        <div><br>
           <u><b>Lunch</b></u><br>
           Turkey BLT Salad + Lemon + Croutons <br>
           Spicy turkey meatballs + sweet potato fries<br>
@@ -74,6 +79,7 @@ id="content">Your diet is one of the most important things to take note of. Eati
         <div>Baked Catfish + Lemon + Cajun season</div>
         <div>Grilled Chicken + Cheese + Salsa + Herbs</div>
         <div>Cauliflower Grilled Cheese</div>
+        <img src="images/food1.jpeg" alt="food" title="food" style="width: 666px; height: 444px;">
         <div><br>
         </div>
         <div><b>***</b>Remember, your diet and food intake ranges on the path
@@ -81,7 +87,8 @@ id="content">Your diet is one of the most important things to take note of. Eati
           want to lose, maintain, or gain weight. What should not change is 3
           meals a day with snacking in between and lots of water!</div>
         <div><br>
-          <!-- end of content column: put your content above this line --> </div>
+        </div>
+        <br>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
