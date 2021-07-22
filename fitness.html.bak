@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -21,22 +22,24 @@ id="tswheader"> General Wellness</span></b></h1>
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1 id="companyid">Welcome</h1>
-          <p>Welcome to General Wellness! We are an emerging brand.</p>
+          <h1 id="companyid"><i id="head">Welcome</i></h1>
+          <p class="p">Welcome to General Wellness! We are an emerging brand.</p>
           <b style="font-weight:normal;" id="docs-internal-guid-ab001027-7fff-bf30-ca62-2a6d35e911b0"><span
-style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">General Wellness strives to compile information, tips, and tricks that will make you your best YOU! The best part, it’s all FREE! Ranging from tips on Self-Care to healthy and delicious meal plans! </span></b>
+style="font-size: 12pt; color: black; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"
+id="body">General Wellness strives to compile information, tips, and tricks that will make you your best YOU! The best part, it’s all FREE! Ranging from tips on Self-Care to healthy and delicious meal plans!</span></b></div>
+        <div><b style="font-weight:normal;"><span style="font-size: 12pt; color: black; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> Your wellness matters to us!</span></b>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
           <div id="tswcssbuttons">
-            <ul>
-              <li><a href="project.html">Home</a></li>
-              <li><a href="selfcare.html">Self Care</a></li>
-              <li><a href="nutrition.html">Nutrition</a></li>
-              <li><a href="fitness.html">Fitness</a></li>
-              <li><a href="aboutus.html">About Us</a></li>
+            <ul id="navigation" class="p">
+              <li><a href="project.html" id="nav1">Home</a></li>
+              <li><a href="selfcare.html" id="nav2">Self Care</a></li>
+              <li><a href="nutrition.html" id="nav3">Nutrition</a></li>
+              <li><a href="fitness.html" id="nav4">Fitness</a></li>
+              <li><a href="aboutus.html" id="nav5">About Us</a></li>
             </ul>
           </div>
           <!-- start of side column: insert your navigation menu, etc, here -->
@@ -48,9 +51,12 @@ style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-col
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p>Copyright@2021General Wellnes! All right reserved!</p>
+        <p>Copyright@2021General Wellness. All right reserved.</p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
   </body>
 </html>
+=======
+<!DOCTYPE html><html lang="en">  <head>    <meta http-equiv="content-type" content="text/html; charset=UTF-8">    <title>Project</title>    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">    <meta name="viewport" content="width=device-width, initial-scale=1">    <link rel="stylesheet" type="text/css" media="all" href="projectstyles.css">    <link rel="stylesheet" type="text/css" href="tswnavbar.css">  </head>  <body>    <div id="tswcontainer">      <div>        <!-- start of header section: insert your logo, etc, here -->        <h1> <img src="logo.png" alt="company logo" title="company logo" style="width: 177px; height: 95px;"><b            style="font-weight:normal;"            id="docs-internal-guid-cf50ac21-7fff-a976-cabb-ce2598f265b8"><spanstyle="color: black; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"id="tswheader"> General Wellness</span></b></h1>        <p>&nbsp;</p>        <!-- end of header section: insert your logo, etc, above this line --> </div>      <div id="tswcontent">        <div id="tswcontproper">          <!-- start of content column: insert your content here -->          <h1 id="companyid">Fitness</h1>          <h2> Benefits of Weightlifting </h2>          <p>Contrary to popular belief, weightlifting isn't only about building            muscle. Some of its benefits are:</p>          <ul>            <li>Better sleep</li>            <li>Improved posture</li>            <li>Boosting metabolism</li>            <li>Burning body fat</li>            <li>Strengthening bones and joints</li>            <li>Reducing injury risks</li>            <li>Improving heart health </li>          </ul>          <p> If you're a beginner weightlifter, it is important for you to take            it slow, and increase weight as you get stronger. Remember to be            mindful of your form and take the necessary rest days. </p>          <h2>Benefits of Cardio </h2>          <p> Cardio isn't only good for weight loss, there are a ton of            benefits that come from it </p>          <ul>            <li> Strengthens your heart</li>            <li>Reduces the risk of several diseases</li>            <li>Improves lung capacity</li>            <li>Helps the immune system</li>            <li>Improves sleep quality. </li>          </ul>          <h2> What is a Superset? </h2>          <ul>          </ul>          In a superset you perform two exercises back to back, followed by a          short rest. This doubles the amount of work you’re doing while keeping          the recovery periods the same          <ul>          </ul>          <h2> Workouts </h2>          <h3> Dumbbell Based Glute Workout </h3>          <li>Dumbell RDL</li>          <li style="margin-left: 40px;">3 x 10</li>          <li>Step ups</li>          <li style="margin-left: 40px;">3 x 8</li>          <li>Deficit split squats</li>          <li style="margin-left: 40px;">3 x 10</li>          <li>Single leg RDL</li>          <li style="margin-left: 40px;">3 x 10 (per leg)</li>          <li>Single leg hip thrust</li>          <li style="margin-left: 40px;">3 x 10</li>          <h3> Shoulder Workout </h3>          <li>Arnold press </li>          <li style="margin-left: 40px;">4 x 10</li>          <li>Superset</li>          <li style="margin-left: 40px;">10 seated lateral raises</li>          <li style="margin-left: 40px;">8 around the world</li>          <li style="margin-left: 80px;">4 - 5x</li>          <li>Front raises (alternating between arms)</li>          <li style="margin-left: 40px;">4 x 8 - 10</li>          <li>Alternating single arm overhead press</li>          <li style="margin-left: 40px;">4 x 8</li>          <b style="font-weight:normal;" id="docs-internal-guid-ab001027-7fff-bf30-ca62-2a6d35e911b0"><spanstyle="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> </span></b>          <p>&nbsp;</p>          <!-- end of content column: put your content above this line --> </div>      </div>      <div id="tswsidecol">        <div id="tswsideproper">          <div id="tswcssbuttons">            <ul>              <li><a href="project.html">Home</a></li>              <li><a href="selfcare.html">Self Care</a></li>              <li><a href="nutrition.html">Nutrition</a></li>              <li><a href="fitness.html">Fitness</a></li>              <li><a href="aboutus.html">About Us</a></li>            </ul>          </div>          <!-- start of side column: insert your navigation menu, etc, here -->          <p><br>          </p>          <!-- end of side column: put your navigation menu, etc, above this line -->        </div>      </div>      <div style="clear: both;"></div>      <div id="tswfooter">        <!-- start of footer section: insert your copyright notice, etc, here -->        <p>Copyright@2021General Wellnes! All rights reserved!</p>        <!-- end of footer section: insert your copyright notice, etc, above this line -->      </div>    </div>  </body></html>
+>>>>>>> 03a9209f0c2650f211f1459d6e03b9d66edc0656
