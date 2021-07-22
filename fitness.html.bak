@@ -21,40 +21,22 @@ id="tswheader"> General Wellness</span></b></h1>
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-<<<<<<< HEAD
-          <h1 id="companyid"><i id="head">Welcome</i></h1>
-          <p class="p">Welcome to General Wellness! We are an emerging brand.</p>
-          <b style="font-weight:normal;" id="docs-internal-guid-ab001027-7fff-bf30-ca62-2a6d35e911b0"><span
-style="font-size: 12pt; color: black; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"
-id="body">General Wellness strives to compile information, tips, and tricks that will make you your best YOU! The best part, it’s all FREE! Ranging from tips on Self-Care to healthy and delicious meal plans!</span></b></div>
-        <div><b style="font-weight:normal;"><span style="font-size: 12pt; color: black; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> Your wellness matters to us!</span></b>
-=======
           <h1 id="companyid">Welcome</h1>
           <p>Welcome to General Wellness! We are an emerging brand.</p>
           <b style="font-weight:normal;" id="docs-internal-guid-ab001027-7fff-bf30-ca62-2a6d35e911b0"><span
 style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">General Wellness strives to compile information, tips, and tricks that will make you your best YOU! The best part, it’s all FREE! Ranging from tips on Self-Care to healthy and delicious meal plans! </span></b>
->>>>>>> 03a9209f0c2650f211f1459d6e03b9d66edc0656
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
           <div id="tswcssbuttons">
-<<<<<<< HEAD
-            <ul id="navigation" class="p">
-              <li><a href="project.html" id="nav1">Home</a></li>
-              <li><a href="selfcare.html" id="nav2">Self Care</a></li>
-              <li><a href="nutrition.html" id="nav3">Nutrition</a></li>
-              <li><a href="fitness.html" id="nav4">Fitness</a></li>
-              <li><a href="aboutus.html" id="nav5">About Us</a></li>
-=======
             <ul>
               <li><a href="project.html">Home</a></li>
               <li><a href="selfcare.html">Self Care</a></li>
               <li><a href="nutrition.html">Nutrition</a></li>
               <li><a href="fitness.html">Fitness</a></li>
               <li><a href="aboutus.html">About Us</a></li>
->>>>>>> 03a9209f0c2650f211f1459d6e03b9d66edc0656
             </ul>
           </div>
           <!-- start of side column: insert your navigation menu, etc, here -->
@@ -66,11 +48,7 @@ style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-col
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-<<<<<<< HEAD
-        <p>Copyright@2021General Wellness. All right reserved.</p>
-=======
         <p>Copyright@2021General Wellnes! All right reserved!</p>
->>>>>>> 03a9209f0c2650f211f1459d6e03b9d66edc0656
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
